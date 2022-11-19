@@ -1,0 +1,80 @@
+
+body{
+    margin-top: 2em;
+    text-align: center;
+}
+.card{
+    text-align: center;
+}
+.round-image {
+    display: inline;
+    margin: 0 auto;
+    margin-left: -25%;
+    height: 100%;
+    width: auto;
+}
+.image-cropper {
+    margin: 2em auto;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.card-title{
+    margin: 0 auto;
+}
+
+p{
+    margin-top: 1em;
+}
+
+h3{
+    margin-top: 1em;
+    
+}
+.quote{
+    font-style: italic;
+}
+
+.album{
+
+}
+
+.album-art{
+    max-width: 150px;
+    max-height: 150px;
+}
+.card-text{
+    height: 250px;
+}
+
+.col-sm{
+    border: none;
+}
+
+.btn-secondary{
+    margin: 1em 2em;
+    width: 200px;
+    height: 50px;
+}
+
+.jumbotron{
+    border: 1px;
+}
+
+.placeholder{
+    text-align: center;
+    color: white;
+    display: inline-block;
+    margin: auto 2em;
+    background: gray;
+    height: 250px;
+    width: 250px;
+    border-radius: 10%;
+}
+
+
+.mural-art{
+    max-width: 200px;
+}
